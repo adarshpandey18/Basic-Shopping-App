@@ -1,16 +1,26 @@
-# shopping_sample_app
+# Shopping App
 
-A new Flutter project.
+This is a Flutter mobile application that allows users to browse and shop for sneakers.
 
-## Getting Started
+## Current State
 
-This project is a starting point for a Flutter application.
+The project is currently in development and has the following features implemented:
 
-A few resources to get you started if this is your first Flutter project:
+- Displaying a list of products.
+- Viewing detailed product information.
+- Adding products to the shopping cart.
+- Removing products from the shopping cart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+However, there are a couple of issues that need to be addressed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Categories Based on Company:** Products should be categorized based on the company or brand, but this feature is not yet implemented.
+
+2. **Search Functionality:** The search option is not working, preventing users from searching for specific products.
+
+## Screenshots
+
+Screenshots will be uploaded soon!
+
+## Dependencies
+- provider: ^5.0.0: For state management using the Provider package.
+- Add any other dependencies here.
